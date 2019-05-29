@@ -1,0 +1,79 @@
+
+body {
+	background-color: lightblue; 
+	font-family: monospace;
+}
+h1,h2,h3,h4,h5,h6{
+	padding: 0;
+	margin:0;
+}
+.clearfix{
+	clear: both;
+}
+
+#main {
+	background-color: #fff;
+	display: block;
+	width: 70%;
+	margin-left: 15%;
+	margin-top: 50px;
+	padding: 20px;
+}
+
+#search {
+	float: right;
+}
+#search input {
+	padding: 5px;
+}
+#search button {
+	padding: 7px 9px;
+	background: grey;
+	border: none;
+	border-radius: 3px;
+	color: #fff;
+}
+
+#heading-text {
+	float: left;
+}
+
+#header {
+	background: #f1f1f1;
+	padding: 20px;
+}
+.student {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	position: relative;
+}
+.student img {
+	border-radius: 50%;
+}
+.student .student_name {
+	position: absolute;
+    top: 8px;
+    left: 60px;
+}
+.student .student_college {
+	position: absolute;
+    top: 40px;
+    left: 70px;
+    color: #828282;
+}
+.student .student_join {
+	float: right;
+	margin-top: 27px;
+	color: #828282;
+}
+
+
+.pages-link {
+	
+}
+#students a {
+	color: #fff;
+	background: blue;
+	border-radius: 3px;
+	padding: 5px;
+}
