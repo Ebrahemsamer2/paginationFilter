@@ -68,12 +68,15 @@ h1,h2,h3,h4,h5,h6{
 }
 
 
-.pages-link {
-	
+.page-links {
+	width: 200px;
+	margin: 50px auto 10px auto;
 }
 #students a {
 	color: #fff;
-	background: blue;
+	background: #3a525a;
 	border-radius: 3px;
-	padding: 5px;
+	padding: 5px 10px;
+	margin-left: 10px;
+	text-decoration: none;
 }
