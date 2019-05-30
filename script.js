@@ -116,19 +116,13 @@ searchButton.addEventListener('click', () => {
 					studentContainer.appendChild(student);
 					deleteErrorMessage();
 					break;
-				}else {
-					// Not Found
-					removeAll('student');
-					appendErrorMessage(studentContainer);
-					break;
 				}
-
-			} else {
-				removeAll('student');
-				appendErrorMessage(studentContainer);
-				break;
 			}
+		}
 
+		if(i === students.length - 1) {
+			removeAll('student');
+			appendErrorMessage(studentContainer);
 		}
 
 	}

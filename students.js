@@ -5,137 +5,137 @@ const students = [
 		name: "Ahmed mohammed",
 		college: "Computer science",
 		image: "1.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Seb - 14"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "mohammed mohammed",
 		college: "Computer science",
 		image: "2.jpg",
 		joined_at: "Apr - 19"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "sayed mohammed",
 		college: "Computer science",
 		image: "3.jpeg",
-		joined_at: "Apr - 19"
+		joined_at: "Seb - 14"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "shawky mohammed",
 		college: "Computer science",
 		image: "4.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Apr - 14"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "Esmail mohammed",
 		college: "Computer science",
 		image: "5.jpg",
 		joined_at: "Apr - 19"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "mostafa mohammed",
 		college: "Computer science",
 		image: "6.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Seb - 14"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "mohsen mohammed",
 		college: "Computer science",
 		image: "7.jpg",
 		joined_at: "Apr - 19"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "Esraa mohammed",
 		college: "Computer science",
 		image: "8.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Apr - 14"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "soher mohammed",
 		college: "Computer science",
 		image: "9.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Seb - 19"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "shimaa ali",
 		college: "Computer science",
 		image: "10.jpg",
 		joined_at: "Apr - 19"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "Ali Ashrad",
 		college: "Computer science",
 		image: "11.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Apr - 14"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "Michel Essa",
 		college: "Computer science",
 		image: "12.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Seb - 17"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "Malek abdallah",
 		college: "Computer science",
 		image: "13.jpg",
 		joined_at: "Apr - 19"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "mina morkos",
 		college: "Computer science",
 		image: "14.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "May - 17"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "samr mohammed",
 		college: "Computer science",
 		image: "15.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Seb - 17"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "engy ebrahem",
 		college: "Computer science",
 		image: "16.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "May - 19"
 	},	{
-		name: "Ahmed mohammed",
+		name: "Abdalla ali",
 		college: "Computer science",
 		image: "10.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Seb - 19"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "saeed mohammed",
 		college: "Computer science",
 		image: "11.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Apr - 17"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "alla ali",
 		college: "Computer science",
 		image: "12.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "May - 19"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "zaid samir",
 		college: "Computer science",
 		image: "13.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "May - 19"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "samir kamel",
 		college: "Computer science",
 		image: "14.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "Seb - 17"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "nohaa ashraf",
 		college: "Computer science",
 		image: "15.jpg",
 		joined_at: "Apr - 19"
 	},
 	{
-		name: "Ahmed mohammed",
+		name: "Ayman Kamel",
 		college: "Computer science",
 		image: "16.jpg",
-		joined_at: "Apr - 19"
+		joined_at: "May - 17"
 	}
 ];
