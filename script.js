@@ -20,6 +20,7 @@ const removeAll = (className)=> {
 		// pagination Container
 		const pagesContainer = document.createElement('div');
 
+		const main = document.querySelector('#main');
 		// nums of students to show
 		const limit = 9;
 
@@ -31,7 +32,7 @@ const removeAll = (className)=> {
 				if(i == limit) {
 					let numOfPages = students.length / limit ;				
 					pagesContainer.className = 'page-links';
-					studentContainer.appendChild(pagesContainer);
+					main.appendChild(pagesContainer);
 					for(let i = 0; i < numOfPages; i++){
 						let pagination = document.createElement('button');
 						pagination.className = "page"+i;
