@@ -96,5 +96,46 @@ const students = [
 		college: "Computer science",
 		image: "16.jpg",
 		joined_at: "Apr - 19"
+	},	{
+		name: "Ahmed mohammed",
+		college: "Computer science",
+		image: "10.jpg",
+		joined_at: "Apr - 19"
+	},
+	{
+		name: "Ahmed mohammed",
+		college: "Computer science",
+		image: "11.jpg",
+		joined_at: "Apr - 19"
+	},
+	{
+		name: "Ahmed mohammed",
+		college: "Computer science",
+		image: "12.jpg",
+		joined_at: "Apr - 19"
+	},
+	{
+		name: "Ahmed mohammed",
+		college: "Computer science",
+		image: "13.jpg",
+		joined_at: "Apr - 19"
+	},
+	{
+		name: "Ahmed mohammed",
+		college: "Computer science",
+		image: "14.jpg",
+		joined_at: "Apr - 19"
+	},
+	{
+		name: "Ahmed mohammed",
+		college: "Computer science",
+		image: "15.jpg",
+		joined_at: "Apr - 19"
+	},
+	{
+		name: "Ahmed mohammed",
+		college: "Computer science",
+		image: "16.jpg",
+		joined_at: "Apr - 19"
 	}
 ];
